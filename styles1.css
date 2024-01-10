@@ -1,0 +1,54 @@
+/* .back{
+    background-image: url(./images/Banner\ Image.png);
+    background-repeat: no-repeat;
+} */
+.off {
+  color: #f00;
+  font-size: 90px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+}
+.our {
+  color: #f00;
+  font-size: 24px;
+}
+.all {
+  color: #070211;
+  font-size: 48px;
+}
+
+.best {
+  text-align: center;
+}
+.midnight {
+  font-weight: 645px;
+}
+.section-title {
+  width: 645px;
+  font-size: 85px;
+  font-weight: 700;
+  margin-top: 5px;
+  margin-bottom: 20px;
+}
+.midni {
+  font-size: 20px;
+  /* margin-top: 5px;
+  margin-bottom: 20px; */
+
+}
+.btn-first{
+    color: #FFF;
+    text-transform: uppercase;
+    font-size: 20px;
+}
+.bat{
+    background-image: url("./images/Vectorrr.png");
+    background-repeat: no-repeat;
+}
+.cat{
+    /* position: absolute;
+    right: 0; */
+    padding-left: 900px;
+    
+}
