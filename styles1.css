@@ -52,3 +52,34 @@
     padding-left: 900px;
     
 }
+.info-title{
+    color: #f00;
+    font-size: 32px;
+    text-align: center;
+    font-weight: 600;
+    line-height: 56px;
+    text-transform: capitalize;
+}
+.about-my{
+    font-size: 32px;
+    color: #070211;
+    text-align: center;
+}
+.oss{
+    color: #070211;
+    text-transform: capitalize;
+}
+.jos{
+    background-color: #f00;
+    border-radius: 8px;
+    display: inline-flex;
+    padding: 16px 32px;
+    align-items: center;
+    gap: 10px;
+    
+}
+.join{
+    align-items: center;
+    gap: 10px;
+}    
+
